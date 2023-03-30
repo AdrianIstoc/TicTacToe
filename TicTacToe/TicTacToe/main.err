@@ -1,0 +1,4 @@
+main.asm(311) : Warning A4073: Size not specified, assuming: BYTE
+main.asm(316) : Warning A4073: Size not specified, assuming: BYTE
+main.asm(327) : Warning A4073: Size not specified, assuming: BYTE
+main.asm(332) : Warning A4073: Size not specified, assuming: BYTE

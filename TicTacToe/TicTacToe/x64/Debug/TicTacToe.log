@@ -1,0 +1,6 @@
+﻿  Assembling main.asm...
+main.asm(311): warning A4073: Size not specified, assuming: BYTE
+main.asm(316): warning A4073: Size not specified, assuming: BYTE
+main.asm(327): warning A4073: Size not specified, assuming: BYTE
+main.asm(332): warning A4073: Size not specified, assuming: BYTE
+  TicTacToe.vcxproj -> C:\Users\adria\Documents\Visual Studio 2019\ASM\TicTacToe\x64\Debug\TicTacToe.exe
